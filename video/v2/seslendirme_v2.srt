@@ -1,0 +1,60 @@
+1
+00:00:00,400 --> 00:00:03,000
+20 Haziran, 13:46. Bitcoin.
+
+2
+00:00:03,000 --> 00:00:06,100
+Sizce sonraki 50 dakikada ne olur?
+
+3
+00:00:06,300 --> 00:00:09,900
+Modelimin cevabı: yukarı.
+
+4
+00:00:10,300 --> 00:00:12,700
+Gerçekte olan: önce sert bir düşüş.
+
+5
+00:00:12,700 --> 00:00:15,000
+Tam bir ıska.
+
+6
+00:00:15,200 --> 00:00:18,400
+Ama dürüst olayım: model “yukarı” dememişti.
+
+7
+00:00:18,400 --> 00:00:23,000
+%53 demişti. Yani neredeyse… yazı-tura.
+
+8
+00:00:23,200 --> 00:00:27,400
+Aynı gün, sekiz farklı an.
+
+9
+00:00:27,400 --> 00:00:30,900
+Ay ne doldu, ne karardı.
+
+10
+00:00:30,900 --> 00:00:33,000
+Hep yarım kaldı.
+
+11
+00:00:33,800 --> 00:00:37,200
+Ben bu modeli yaptım.
+
+12
+00:00:37,200 --> 00:00:40,800
+Bu videoda ona tek bir soru soracağım:
+
+13
+00:00:45,400 --> 00:00:50,300
+Bunu tahminle değil, ölçerek bulacağız.
+
+14
+00:00:50,500 --> 00:00:54,900
+Sonuç ne çıkarsa çıksın, göstereceğim.
+
+15
+00:00:56,300 --> 00:00:58,200
+Başlayalım.
+

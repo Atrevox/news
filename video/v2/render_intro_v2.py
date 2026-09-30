@@ -246,9 +246,9 @@ def coin(a, t0, t1, cx, cy, r, flip_from=None, flip_to=None, fade=(250, 250)):
         ex = "".join(steps) + rf"\t({a1},{a1 + 60},\fscx100)"
     org = rf"\org({cx},{cy})"
     a.add(t0, t1, rf"{{\an5\pos({cx},{cy}){org}\p1\bord0\shad0\c{COIN}\fad({fade[0]},{fade[1]}){ex}}}"
-                  f"{circle_path(0, 0, r)}", "Shape", 3)
+                  f"{circle_path(r, r, r)}", "Shape", 3)
     a.add(t0, t1, rf"{{\an5\pos({cx},{cy}){org}\p1\bord0\shad0\c&H2F8AB8&\fad({fade[0]},{fade[1]}){ex}}}"
-                  f"{circle_path(0, 0, r * 0.8)}", "Shape", 4)
+                  f"{circle_path(r * 0.8, r * 0.8, r * 0.8)}", "Shape", 4)
     a.add(t0, t1, rf"{{\an5\pos({cx},{cy}){org}\c&H7FE0FF&\fs{int(r * 0.9)}\b1\bord0\fad({fade[0]},{fade[1]}){ex}}}₺",
           "Head", 5)
 
