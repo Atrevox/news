@@ -1,0 +1,56 @@
+1
+00:00:00,300 --> 00:00:04,800
+Bitcoin, 20 Haziran sabahı, saat 08:02.
+Sonraki elli dakikada ne olacak?
+
+2
+00:00:05,000 --> 00:00:10,800
+Bu parlak mumları bir model çizdi, sağdaki elli dakikanın
+hiçbirini görmeden. Gri olanlar gerçekte olan.
+
+3
+00:00:11,000 --> 00:00:14,800
+Ve bu örnekte neredeyse üst üste.
+
+4
+00:00:15,000 --> 00:00:20,800
+Ama dürüst olalım, her zaman böyle değil. Burada model
+yükseliş bekledi, fiyat önce sert düştü.
+
+5
+00:00:21,300 --> 00:00:27,800
+Bu model KAT-S. Bu videoda tek bir soruya cevap arıyoruz:
+gerçekten işe yarıyor mu?
+
+6
+00:00:28,300 --> 00:00:32,600
+Önce ekranı okuyalım. Soldaki mumlar geçmiş: modelin
+gördüğü tek şey bu, bir dakikalık Bitcoin fiyatları.
+
+7
+00:00:32,800 --> 00:00:36,800
+Kesikli çizgi tahmin anı;
+model burada durur ve ileriyi çizer.
+
+8
+00:00:37,000 --> 00:00:40,400
+Sağ taraf elli bar, yani elli dakika ileri.
+
+9
+00:00:40,600 --> 00:00:44,600
+Alttaki satırda P-yukarı: elli dakika sonra fiyatın
+daha yukarıda olma olasılığı, burada yüzde elli üç.
+
+10
+00:00:44,700 --> 00:00:46,800
+Sigma da modelin beklediği oynaklık.
+
+11
+00:00:47,200 --> 00:00:54,700
+Aynı günden sekiz farklı an. Bazılarında isabetli,
+bazılarında değil. Peki kaçında haklı çıktı?
+
+12
+00:00:55,000 --> 00:00:59,700
+Bunu yüzlerce örnekle ve basit yöntemlerle
+kıyaslayarak test edeceğiz. Başlayalım.
